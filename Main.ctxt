@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Main
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=pen
+comment2.target=void\ setup(javafx.scene.canvas.GraphicsContext)
+comment3.params=pen
+comment3.target=void\ draw(javafx.scene.canvas.GraphicsContext)
+comment4.params=
+comment4.target=void\ keyReleased()
+comment4.text=\r\n\ Tracks\ if\ a\ key\ has\ been\ released\r\n\ If\ released,\ the\ variable\ will\ be\ true\r\n
+numComments=5

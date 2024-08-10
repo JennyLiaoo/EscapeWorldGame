@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Inventory
+comment1.params=gameboard
+comment1.target=Inventory(Gameboard)
+comment2.params=pen
+comment2.target=void\ draw(javafx.scene.canvas.GraphicsContext)
+comment3.params=obtained
+comment3.target=void\ addItem(Item)
+comment3.text=\r\n\ Adds\ items\ to\ the\ player\ inventory\r\n
+comment4.params=gave
+comment4.target=void\ giveItem(Item)
+comment4.text=\r\n\ Move\ item\ from\ inventory\ into\ the\ chest\ inventory\r\n
+comment5.params=
+comment5.target=java.util.ArrayList\ getChestInventory()
+comment5.text=\r\n\ returns\ the\ chest\ inventory\r\n
+comment6.params=number
+comment6.target=Item\ getItem(int)
+comment6.text=\r\n\ Get\ an\ item\ from\ the\ player\ inventory\r\n
+comment7.params=removed
+comment7.target=void\ removeItem(Item)
+comment7.text=\r\n\ removes\ an\ item\ from\ the\ player's\ inventory\r\n
+numComments=8

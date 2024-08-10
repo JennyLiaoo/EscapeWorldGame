@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Obstacle
+comment1.params=x\ y\ w\ h\ f
+comment1.target=Obstacle(int,\ int,\ int,\ int,\ javafx.scene.paint.Color)
+comment2.params=pen
+comment2.target=void\ draw(javafx.scene.canvas.GraphicsContext)
+comment3.params=
+comment3.target=int\ getXPos()
+comment4.params=
+comment4.target=int\ getYPos()
+comment5.params=
+comment5.target=int\ getWidth()
+comment6.params=
+comment6.target=int\ getHeight()
+numComments=7
