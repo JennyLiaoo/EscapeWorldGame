@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=ArrayExample
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=set\ word
+comment2.target=boolean\ search(java.lang.String[],\ java.lang.String)
+comment2.text=\r\n\ Create\ a\ method\ that\ will\ iterate\ through\ the\ array\r\n\ to\ determine\ if\ the\ word\ is\ in\ the\ set\ already\ \r\n\ @return\ true\ if\ the\ word\ exists\ in\ the\ set\r\n
+comment3.params=set\ word
+comment3.target=java.lang.String[]\ remove(java.lang.String[],\ java.lang.String)
+comment3.text=\r\n\ Create\ a\ method\ that\ remove\ ANY\ element\ that\ matches\r\n\ the\ given\ word\r\n\r\n\ @return\ the\ set\ without\ any\ instances\ of\ the\ given\ \r\n\ word\ \r\n
+comment4.params=set\ word
+comment4.target=java.lang.String[]\ addToMiddle(java.lang.String[],\ java.lang.String)
+comment4.text=\r\n\ Create\ a\ method\ will\ add\ the\ give\ word\ to\ the\ middle\ \r\n\ of\ the\ array.\ \ It\ will\ move\ all\ other\ elements\ out\ of\r\n\ the\ way.\ You\ can\ assume\ that\ the\ array\ is\ not\ full\ and\r\n\ has\ some\ empty\ spots\ towards\ the\ end\ of\ the\ array.\r\n\r\n\ @return\ the\ set\ without\ any\ instances\ of\ the\ given\ \r\n\ word\ \r\n
+numComments=5

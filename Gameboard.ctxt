@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=Gameboard
+comment1.params=
+comment1.target=Gameboard()
+comment2.params=pen
+comment2.target=void\ draw(javafx.scene.canvas.GraphicsContext)
+comment3.params=
+comment3.target=Obstacle[]\ getObstacles()
+comment4.params=
+comment4.target=Item[]\ getItems()
+comment5.params=
+comment5.target=Chest\ getChest()
+comment6.params=
+comment6.target=Item[]\ getPassword()
+comment7.params=
+comment7.target=Scrolls\ getHint()
+comment8.params=
+comment8.target=Scrolls\ getHint2()
+comment9.params=
+comment9.target=Scrolls\ getHint3()
+numComments=10
